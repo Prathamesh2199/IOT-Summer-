@@ -30,7 +30,7 @@ void loop() {
   else
   {
     
-    digitalWrite(led,HIGH);
+    digitalWrite(led,LOW);
   }
   delay(50);
 }
